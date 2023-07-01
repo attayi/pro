@@ -1,0 +1,84 @@
+[2023-07-01T10:12:06.038] [ERROR] error - TypeError: Cannot read properties of null (reading 'userName')
+    at C:\Users\zhengyan\Desktop\a\manager-server\routes\leaves.js:65:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\zhengyan\Desktop\a\manager-server\app.js:44:3
+    at async serve (C:\Users\zhengyan\Desktop\a\manager-server\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\zhengyan\Desktop\a\manager-server\node_modules\koa-bodyparser\index.js:78:5)
+[2023-07-01T10:12:07.343] [ERROR] error - TypeError: Cannot read properties of null (reading 'userName')
+    at C:\Users\zhengyan\Desktop\a\manager-server\routes\leaves.js:65:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\zhengyan\Desktop\a\manager-server\app.js:44:3
+    at async serve (C:\Users\zhengyan\Desktop\a\manager-server\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\zhengyan\Desktop\a\manager-server\node_modules\koa-bodyparser\index.js:78:5)
+[2023-07-01T10:12:07.518] [ERROR] error - TypeError: Cannot read properties of null (reading 'userName')
+    at C:\Users\zhengyan\Desktop\a\manager-server\routes\leaves.js:65:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\zhengyan\Desktop\a\manager-server\app.js:44:3
+    at async serve (C:\Users\zhengyan\Desktop\a\manager-server\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\zhengyan\Desktop\a\manager-server\node_modules\koa-bodyparser\index.js:78:5)
+[2023-07-01T10:12:07.600] [ERROR] error - TypeError: Cannot read properties of null (reading 'userName')
+    at C:\Users\zhengyan\Desktop\a\manager-server\routes\leaves.js:65:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\zhengyan\Desktop\a\manager-server\app.js:44:3
+    at async serve (C:\Users\zhengyan\Desktop\a\manager-server\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\zhengyan\Desktop\a\manager-server\node_modules\koa-bodyparser\index.js:78:5)
+[2023-07-01T10:12:07.723] [ERROR] error - TypeError: Cannot read properties of null (reading 'userName')
+    at C:\Users\zhengyan\Desktop\a\manager-server\routes\leaves.js:65:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\zhengyan\Desktop\a\manager-server\app.js:44:3
+    at async serve (C:\Users\zhengyan\Desktop\a\manager-server\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\zhengyan\Desktop\a\manager-server\node_modules\koa-bodyparser\index.js:78:5)
+[2023-07-01T10:12:07.997] [ERROR] error - TypeError: Cannot read properties of null (reading 'userName')
+    at C:\Users\zhengyan\Desktop\a\manager-server\routes\leaves.js:65:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\zhengyan\Desktop\a\manager-server\app.js:44:3
+    at async serve (C:\Users\zhengyan\Desktop\a\manager-server\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\zhengyan\Desktop\a\manager-server\node_modules\koa-bodyparser\index.js:78:5)
+[2023-07-01T10:12:08.480] [ERROR] error - TypeError: Cannot read properties of null (reading 'userName')
+    at C:\Users\zhengyan\Desktop\a\manager-server\routes\leaves.js:65:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\zhengyan\Desktop\a\manager-server\app.js:44:3
+    at async serve (C:\Users\zhengyan\Desktop\a\manager-server\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\zhengyan\Desktop\a\manager-server\node_modules\koa-bodyparser\index.js:78:5)
+[2023-07-01T10:12:08.655] [ERROR] error - TypeError: Cannot read properties of null (reading 'userName')
+    at C:\Users\zhengyan\Desktop\a\manager-server\routes\leaves.js:65:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\zhengyan\Desktop\a\manager-server\app.js:44:3
+    at async serve (C:\Users\zhengyan\Desktop\a\manager-server\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\zhengyan\Desktop\a\manager-server\node_modules\koa-bodyparser\index.js:78:5)
+[2023-07-01T10:12:08.719] [ERROR] error - TypeError: Cannot read properties of null (reading 'userName')
+    at C:\Users\zhengyan\Desktop\a\manager-server\routes\leaves.js:65:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\zhengyan\Desktop\a\manager-server\app.js:44:3
+    at async serve (C:\Users\zhengyan\Desktop\a\manager-server\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\zhengyan\Desktop\a\manager-server\node_modules\koa-bodyparser\index.js:78:5)
+[2023-07-01T10:12:08.971] [ERROR] error - TypeError: Cannot read properties of null (reading 'userName')
+    at C:\Users\zhengyan\Desktop\a\manager-server\routes\leaves.js:65:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\zhengyan\Desktop\a\manager-server\app.js:44:3
+    at async serve (C:\Users\zhengyan\Desktop\a\manager-server\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\zhengyan\Desktop\a\manager-server\node_modules\koa-bodyparser\index.js:78:5)
+[2023-07-01T10:12:09.710] [ERROR] error - TypeError: Cannot read properties of null (reading 'userName')
+    at C:\Users\zhengyan\Desktop\a\manager-server\routes\leaves.js:65:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\zhengyan\Desktop\a\manager-server\app.js:44:3
+    at async serve (C:\Users\zhengyan\Desktop\a\manager-server\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\zhengyan\Desktop\a\manager-server\node_modules\koa-bodyparser\index.js:78:5)
+[2023-07-01T10:12:09.913] [ERROR] error - TypeError: Cannot read properties of null (reading 'userName')
+    at C:\Users\zhengyan\Desktop\a\manager-server\routes\leaves.js:65:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\zhengyan\Desktop\a\manager-server\app.js:44:3
+    at async serve (C:\Users\zhengyan\Desktop\a\manager-server\node_modules\koa-static\index.js:53:9)
+    at async bodyParser (C:\Users\zhengyan\Desktop\a\manager-server\node_modules\koa-bodyparser\index.js:78:5)
